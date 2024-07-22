@@ -14,6 +14,7 @@
         "video_player"
     ],
     "description": {
-        "en": "Client für Jellyfin"
+        "en": "Client for Jellyfin",
+        "de": "Client für Jellyfin"
     }
 }
